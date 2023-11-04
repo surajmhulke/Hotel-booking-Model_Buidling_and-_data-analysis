@@ -1,6 +1,5 @@
-# eda-hotel-booking-Model_Buidling_and-_data-analysis
-
-Hotel Booking Cancellation Prediction
+# Hotel-booking-Model_Buidling_and-_data-analysis
+ 
 
 ## Table of Contents
 - [Introduction](#introduction)
